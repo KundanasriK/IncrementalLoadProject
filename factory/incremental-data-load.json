@@ -1,0 +1,9 @@
+{
+	"name": "incremental-data-load",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ea0c0bf3-cf03-461a-a8ba-848f43a9a86f",
+		"tenantId": "5e93ff23-b9d3-4148-aff2-d4de91b3680d"
+	}
+}
